@@ -1,0 +1,15 @@
+# This is Git's per-user configuration file.
+[core]
+# Please adapt and uncomment the following lines:
+	user = itomoto0312
+	email = itou.motoki0312@gmail.com
+[alias]
+	logd = log --pretty=format:\"%h - %an, %ar : %s\"
+	logg = log --graph --name-status --pretty=format:\"%C(red)%h %C(green)%an %Creset%s %C(yellow)%d%Creset\"
+    com = commit -m 
+
+[user]
+	name = itomoto0312
+	email = itou.motoki0312@gmail.com
+[http]
+	sslVerify = false

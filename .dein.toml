@@ -1,0 +1,35 @@
+#deinでロードするプラグインリスト
+#[[plugins]]
+#repo = 'リポジトリ名'
+
+[[plugins]]
+#dein本体
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+#NERDTree - ディレクトリをTree表示
+repo = 'scrooloose/nerdtree'
+
+[[plugins]]
+#CAW - らくちんコメントアウト
+repo = 'tyru/caw.vim.git'
+
+[[plugins]]
+#vim-autoclose - カッコを自動補完
+repo = 'Townk/vim-autoclose'
+
+[[plugins]]
+#minibufexpl - バッファリストをタブっぽく表示
+repo = 'fholgado/minibufexpl.vim'
+
+[[plugins]]
+#MRU - 最近編集したファイルを管理する
+repo = 'yegappan/mru'
+
+[[plugins]]
+#vim-surround - {}操作を便利にする
+repo = 'tpope/vim-surround'
+
+[[plugins]]
+#vim-fugitive - gitの情報を取得する
+repo = 'tpope/vim-fugitive'

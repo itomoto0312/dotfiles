@@ -1,0 +1,4 @@
+#deinで遅延ロードするプラグインリスト
+[[plugins]]
+repo = 'Shougo/neomru.vim'
+on_path = '.*'

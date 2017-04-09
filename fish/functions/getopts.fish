@@ -1,0 +1,1 @@
+/Users/owner/.config/fisherman/getopts/getopts.fish
