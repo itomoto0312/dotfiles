@@ -2,7 +2,7 @@
 
 fish, vim, git のdotfilesつめあわせ
 
-fishのプラグインマネージャはfisherを利用しています
+fishのプラグインマネージャはfisherを利用しています    
 vimプラグインマネージャはdeinを利用しています
 
 # install
